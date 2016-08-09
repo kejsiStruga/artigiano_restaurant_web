@@ -272,8 +272,8 @@ CREATE TABLE `vizitor` (
 
 INSERT INTO `vizitor` (`id`, `emri`, `mbiemri`, `username`, `email`, `password`, `active`, `tipi`, `profili`, `nr_kontakti`, `data_regjistrimit`, `adresa`) VALUES
 (95, 'kejsi', 'struga', 'kejsi', 'kejsistruga@yahoo.com', 'e1f1ee0cfcbb93ea2ffe9e44df18395c', 1, 1, 'images/profili/8b45123af9.jpg', 696322952, '2016-06-01', ''),
-(99, 'ana', 'ana', 'ana', 'ana@yahoo.com', 'ecc033aff1cdb96134420c6daf0c0d63', 1, 0, NULL, 888888888, '2016-07-31', ''),
-(100, '', '', 'jola', 'jolastr@yahoo.com', 'ecc033aff1cdb96134420c6daf0c0d63', 1, 0, 'images/profili/ee4cfafb18.jpg', 696456454, '2016-08-09', '');
+(99, 'ana', 'ana', 'ana', 'ana@yahoo.com', '47dc442ec6a8d1c2152cac235a2712a4', 1, 0, NULL, 888888888, '2016-07-31', ''),
+(100, '', '', 'jola', 'jolastr@yahoo.com', '6562bbcb91d0dade8de643a0272cd950', 1, 0, 'images/profili/ee4cfafb18.jpg', 696456454, '2016-08-09', '');
 
 --
 -- Indexes for dumped tables
