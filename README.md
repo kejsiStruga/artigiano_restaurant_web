@@ -3,16 +3,16 @@ Artigiano Coffee and Food
 
 projekt_web.sql -> database
 
-login as admin 
+LOGIN AS ADMIN
 username: kejsi
 password: admin2016
 
-login as a registered user
+LOGIN AS A REGISTERED USER
 username: ana
 password: user12016
-  or
+  OR
 username: jola
 password: user22016
 
-**the enter key is disabled  
+**the enter key is disabled**  
 
