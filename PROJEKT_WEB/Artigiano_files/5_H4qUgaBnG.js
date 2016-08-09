@@ -1,0 +1,5 @@
+/*!CK:2591187857!*//*1453556157,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["nK9vK"]); }
+
+__d('SearchFiltersCustomSource',['CSS','DOM','DOMQuery','EventListener','Form','csx','cx'],function a(b,c,d,e,f,g,h,i,j,k,l,m,n){'use strict';if(c.__markCompiled)c.__markCompiled();function o(p,q,r){this.sourceElem=p;this.placeholder=q;this.form=r;k.listen(this.placeholder,'click',(function(event){h.addClass(p,"_4ivt");this.placeholder.style.display='none';var s=j.scry(this.sourceElem,"._4ivu input");if(s.length>0){l.getElements(this.form).forEach(function(y){if(y.type==='radio')i.setAttributes(y,{checked:false});});for(var t=s,u=Array.isArray(t),v=0,t=u?t:t[typeof Symbol==='function'?Symbol.iterator:'@@iterator']();;){var w;if(u){if(v>=t.length)break;w=t[v++];}else{v=t.next();if(v.done)break;w=v.value;}var x=w;i.setAttributes(x,{checked:true});}}}).bind(this));}f.exports=o;},null);

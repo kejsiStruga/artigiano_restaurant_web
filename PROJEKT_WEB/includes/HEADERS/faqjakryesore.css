@@ -1,0 +1,132 @@
+table, th
+{
+	text-align: left;
+}
+ul {
+    padding:0;
+    margin:0 0 20px 0;
+    list-style-type:none;
+}
+h1, h2 {
+    padding:0;
+    margin:0 0 20px 0;
+    font-weight:normal;
+}
+
+p {
+    padding:0;
+    margin:0 0 20px 0;
+}
+
+a:visited {
+    text-decoration:underline;
+	color: purple;
+    color:#000;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+ul li {
+    padding:5px 0;
+	color: teal
+}
+ul li input[type="text"], ul li input[type="password"] {
+    width:200px;
+}
+/* Headers */
+h1 {
+    font-size:1.8em;
+}
+h2 {
+    font-size:1.4em;
+}
+.logo {
+    font:2em Arial;
+    margin:0 0 10px 0;
+    padding:0;
+    width:200px;
+    color:#000;
+}
+/* Containers */
+body {
+    
+	font-family:Arial;
+    font-size:0.8em;  
+	
+}
+#container, footer {
+    margin:0 auto;
+    padding:20px;
+}
+header {
+    width:940px;
+    padding:10px;
+    margin:0 auto 10px auto;
+}
+#container {
+ margin-top: 15px;
+    min-height:460px;
+	width: 950px;
+    border-radius:5px 5px 0 0;
+}
+footer {
+    border-radius:0 0 5px 5px;
+}
+.widget {
+    margin-bottom:20px;
+	width: 270px;
+	height:440px;
+}
+.widget h2 {
+    margin:0 50px 10px 0;
+    padding:0 5px;
+    font-weight:normal;
+    border-bottom:1px solid #ddd;
+} 
+.widget .inner {
+    margin:0 10px;
+}
+/* Navigation */
+nav {
+    float:left;
+}
+nav ul {
+    margin:0;
+}
+nav ul li {
+    display:inline;
+    margin-right:10px;
+}
+nav ul li a {
+   text-decoration:inherit;
+   color: inherit;
+
+}
+nav ul li.current {
+    font-weight:bold;
+}
+nav ul li a.last {
+    border-right:0;
+}
+/* Aside */
+aside {
+
+    width:260px;
+    float:right;
+    border-left:1px dashed #963;
+    padding-left:15px;
+}
+/* Login */
+#login li.link {
+    margin-top:5px;
+}
+/* Footer */
+footer {
+    border-top:1px dashed #963;
+     background:#FFE4C4;
+}
+/* Misc */
+.clear {
+    clear:both;
+}

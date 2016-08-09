@@ -1,0 +1,5 @@
+/*!CK:3734060284!*//*1453252365,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["4\/U8p"]); }
+
+__d('ReactComposerActorSelectorContainer.react',['ReactComposerActions','ReactComposerContextMixin','ComposerXActorSelector.react','ActorURI','AsyncRequest','React','XReactComposerActorChangeController','XUISpinner.react','cx'],function a(b,c,d,e,f,g,h,i,j,k,l,m,n,o,p){if(c.__markCompiled)c.__markCompiled();var q=m.createClass({displayName:'ReactComposerActorSelectorContainer',mixins:[i],getInitialState:function(){return {showSpinner:false};},render:function(){var r=babelHelpers._extends({},this.props,{composerID:this.context.composerID});return (m.createElement('span',null,m.createElement(o,{className:(!this.state.showSpinner?"hidden_elem":'')+(' '+"_5gvy")}),m.createElement(j,babelHelpers._extends({},r,{className:"_4w4v",onChange:this._onActorChange}))));},_onActorChange:function(r){this.setState({showSpinner:true});var s=k.create(n.getURIBuilder().setString('composer_id',this.context.composerID).setEnum('composer_type',this.context.composerType).setString('target_id',this.context.targetID).getURI(),r);new l().setURI(s).send();}});f.exports=q;},null);
