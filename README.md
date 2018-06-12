@@ -9,13 +9,13 @@ _Database:_
 projekt_web.sql 
 
 _Login as Admin:_
-*username*: kejsi
-*password*: admin2016
+**username**: kejsi
+**password**: admin2016
 
 _Login as a Registered User_
-*username*: ana
-*password*: user12016
+**username**: ana
+**password**: user12016
   or
-*username*: jola
-*password*: user22016
+**username**: jola
+**password**: user22016
 
