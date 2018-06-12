@@ -2,7 +2,7 @@
 
 ## Artigiano Coffee and Food
 
-The Project consists in creating a website for the "Artigiano" Restaurant in Albania. 
+The Project consists in creating a website for the _Artigiano_ Restaurant in Albania. 
 
 Users will be offered to view the dinning rooms, to browse menus, to subscribe, to make order in specific areas of Tirana, and explore offers. All the appropriate entities will be managed in a CRUD-like fashion by Web Site administrators. 
 
