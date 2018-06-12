@@ -1,10 +1,12 @@
-# artigiano_restaurant_web
-Artigiano Coffee and Food
+# Artigiano_restaurant_web
 
-executable in XAMPP Apache
+## Artigiano Coffee and Food
+
+Tested in XAMPP Apache, PHP 5.6:
 http://localhost/PROJEKT_WEB/Artigiano.php
 
-projekt_web.sql -> database
+Database:
+projekt_web.sql 
 
 LOGIN AS ADMIN
 username: kejsi
@@ -16,6 +18,4 @@ password: user12016
   OR
 username: jola
 password: user22016
-
-**the enter key is disabled**  
 
