@@ -22,3 +22,5 @@ _Login as a Registered User_
 ![](.README_images/Functional_Decomposition_Diagram.png)
 
 ![](.README_images/Use_Case_Diagram1.png)
+
+![](.README_images/Database_Diagram.png)
