@@ -19,3 +19,6 @@ _Login as a Registered User_
 **username**: jola
 **password**: user22016
 
+![](.README_images/Functional_Decomposition.png)
+
+![](.README_images/Use_Case_DIagram.png)
