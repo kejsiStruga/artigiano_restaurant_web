@@ -8,14 +8,14 @@ http://localhost/PROJEKT_WEB/Artigiano.php
 _Database:_
 projekt_web.sql 
 
-_LOGIN AS ADMIN:_
+_Login as Admin:_
 *username*: kejsi
 *password*: admin2016
 
-_LOGIN AS A REGISTERED USER_
+_Login as a Registered User_
 *username*: ana
 *password*: user12016
-  OR
+  or
 *username*: jola
 *password*: user22016
 
