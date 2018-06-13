@@ -33,8 +33,5 @@ _Login as a Registered User_
 ![](.README_images/Functional_Decomposition_Diagram.png)
 
 ![](.README_images/Use_Case_Diagram1.png)
-<<<<<<< HEAD
 
 ![](.README_images/Database_Diagram.png)
-=======
->>>>>>> fc5ecaab77f638f3db25175c5982710a843aa688
